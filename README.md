@@ -6,3 +6,7 @@ Dataset is not imported, it's created during run time, will be properly implemen
 
 
 NOTE: Laplace Smoothing is used for non-zero probability.
+
+#Contribution to the manual data set is welcomed. 
+Categories: SPORTS AND NON-SPORTS.
+Source: News paper.
